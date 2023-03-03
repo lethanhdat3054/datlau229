@@ -27,5 +27,6 @@ namespace WebApplication1.Controllers
             return View();
         }
 	hello aaaaaa
+	an noi tao lao  ban oi 
     }
 }
